@@ -1,0 +1,166 @@
+type: 0 gran: 65535 size: 8589934592 rang: 1 order: false
+Write count: 131075
+type: 1 gran: 8192 size: 8589934592 rang: 0 order: false
+
+Read count: 1048576 Time: 153332
+type: 1 gran: 16384 size: 8589934592 rang: 0 order: false
+
+Read count: 524288 Time: 140512
+type: 1 gran: 32768 size: 8589934592 rang: 0 order: false
+
+Read count: 262144 Time: 144290
+type: 1 gran: 65536 size: 8589934592 rang: 0 order: false
+
+Read count: 131072 Time: 140565
+type: 2 gran: 8192 size: 8589934592 rang: 0 order: false
+
+Read count: 1048576 Time: 142636
+type: 2 gran: 16384 size: 8589934592 rang: 0 order: false
+
+Read count: 524288 Time: 143517
+type: 2 gran: 32768 size: 8589934592 rang: 0 order: false
+
+Read count: 262144 Time: 174564
+type: 2 gran: 65536 size: 8589934592 rang: 0 order: false
+
+Read count: 131072 Time: 164683
+type: 3 gran: 8192 size: 8589934592 rang: 0 order: false
+
+Read count: 1048576 Time: 191987
+type: 3 gran: 16384 size: 8589934592 rang: 0 order: false
+
+Read count: 524288 Time: 196038
+type: 3 gran: 32768 size: 8589934592 rang: 0 order: false
+
+Read count: 262144 Time: 143891
+type: 3 gran: 65536 size: 8589934592 rang: 0 order: false
+
+Read count: 131072 Time: 140359
+type: 4 gran: 8192 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 4 gran: 16384 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 4 gran: 32768 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 4 gran: 65536 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 4 gran: 8192 size: 8589934592 rang: 1 order: false
+Read count: 1048576 Time: 141573 round: 1
+type: 4 gran: 16384 size: 8589934592 rang: 1 order: false
+Read count: 524288 Time: 143507 round: 1
+type: 4 gran: 32768 size: 8589934592 rang: 1 order: false
+Read count: 262144 Time: 150648 round: 1
+type: 4 gran: 65536 size: 8589934592 rang: 1 order: false
+Read count: 131072 Time: 148409 round: 1
+type: 4 gran: 8192 size: 8589934592 rang: 2 order: false
+Read count: 1048576 Time: 104011 round: 2
+type: 4 gran: 16384 size: 8589934592 rang: 2 order: false
+Read count: 524288 Time: 136488 round: 2
+type: 4 gran: 32768 size: 8589934592 rang: 2 order: false
+Read count: 262144 Time: 140840 round: 2
+type: 4 gran: 65536 size: 8589934592 rang: 2 order: false
+Read count: 131072 Time: 140799 round: 2
+type: 4 gran: 8192 size: 8589934592 rang: 4 order: false
+Read count: 1048576 Time: 446712 round: 4
+type: 4 gran: 16384 size: 8589934592 rang: 4 order: false
+Read count: 524288 Time: 484842 round: 4
+type: 4 gran: 32768 size: 8589934592 rang: 4 order: false
+Read count: 262144 Time: 450987 round: 4
+type: 4 gran: 65536 size: 8589934592 rang: 4 order: false
+Read count: 131072 Time: 433143 round: 4
+type: 4 gran: 8192 size: 8589934592 rang: 8 order: false
+Read count: 1048576 Time: 1087614 round: 8
+type: 4 gran: 16384 size: 8589934592 rang: 8 order: false
+Read count: 524288 Time: 1065568 round: 8
+type: 4 gran: 32768 size: 8589934592 rang: 8 order: false
+Read count: 262144 Time: 1039424 round: 8
+type: 4 gran: 65536 size: 8589934592 rang: 8 order: false
+Read count: 131072 Time: 968802 round: 8
+type: 4 gran: 8192 size: 8589934592 rang: 16 order: false
+Read count: 1048576 Time: 2138183 round: 16
+type: 4 gran: 16384 size: 8589934592 rang: 16 order: false
+Read count: 524288 Time: 2005958 round: 16
+type: 4 gran: 32768 size: 8589934592 rang: 16 order: false
+Read count: 262144 Time: 1865644 round: 16
+type: 4 gran: 65536 size: 8589934592 rang: 16 order: false
+Read count: 131072 Time: 792653 round: 16
+type: 4 gran: 8192 size: 8589934592 rang: 32 order: false
+Read count: 1048576 Time: 3954633 round: 32
+type: 4 gran: 16384 size: 8589934592 rang: 32 order: false
+Read count: 524288 Time: 2819014 round: 32
+type: 4 gran: 32768 size: 8589934592 rang: 32 order: false
+Read count: 262144 Time: 1085124 round: 32
+type: 4 gran: 65536 size: 8589934592 rang: 32 order: false
+Read count: 131072 Time: 1215597 round: 32
+type: 4 gran: 8192 size: 8589934592 rang: 64 order: false
+Read count: 1048576 Time: 4455986 round: 64
+type: 4 gran: 16384 size: 8589934592 rang: 64 order: false
+Read count: 524288 Time: 2205909 round: 64
+type: 4 gran: 32768 size: 8589934592 rang: 64 order: false
+Read count: 262144 Time: 2395944 round: 64
+type: 4 gran: 65536 size: 8589934592 rang: 64 order: false
+Read count: 131072 Time: 917079 round: 64
+type: 5 gran: 8192 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 3 round: 0
+type: 5 gran: 16384 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 5 gran: 32768 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 0 round: 0
+type: 5 gran: 65536 size: 8589934592 rang: 0 order: false
+Read count: 0 Time: 1 round: 0
+type: 5 gran: 8192 size: 8589934592 rang: 1 order: false
+Read count: 1048576 Time: 138851 round: 1
+type: 5 gran: 16384 size: 8589934592 rang: 1 order: false
+Read count: 524288 Time: 139840 round: 1
+type: 5 gran: 32768 size: 8589934592 rang: 1 order: false
+Read count: 262144 Time: 129499 round: 1
+type: 5 gran: 65536 size: 8589934592 rang: 1 order: false
+Read count: 131072 Time: 149130 round: 1
+type: 5 gran: 8192 size: 8589934592 rang: 2 order: false
+Read count: 1048576 Time: 249666 round: 2
+type: 5 gran: 16384 size: 8589934592 rang: 2 order: false
+Read count: 524288 Time: 249361 round: 2
+type: 5 gran: 32768 size: 8589934592 rang: 2 order: false
+Read count: 262144 Time: 262299 round: 2
+type: 5 gran: 65536 size: 8589934592 rang: 2 order: false
+Read count: 131072 Time: 259801 round: 2
+type: 5 gran: 8192 size: 8589934592 rang: 4 order: false
+Read count: 1048576 Time: 458969 round: 4
+type: 5 gran: 16384 size: 8589934592 rang: 4 order: false
+Read count: 524288 Time: 346553 round: 4
+type: 5 gran: 32768 size: 8589934592 rang: 4 order: false
+Read count: 262144 Time: 428917 round: 4
+type: 5 gran: 65536 size: 8589934592 rang: 4 order: false
+Read count: 131072 Time: 515848 round: 4
+type: 5 gran: 8192 size: 8589934592 rang: 8 order: false
+Read count: 1048576 Time: 800415 round: 8
+type: 5 gran: 16384 size: 8589934592 rang: 8 order: false
+Read count: 524288 Time: 782988 round: 8
+type: 5 gran: 32768 size: 8589934592 rang: 8 order: false
+Read count: 262144 Time: 871065 round: 8
+type: 5 gran: 65536 size: 8589934592 rang: 8 order: false
+Read count: 131072 Time: 991729 round: 8
+type: 5 gran: 8192 size: 8589934592 rang: 16 order: false
+Read count: 1048576 Time: 1874445 round: 16
+type: 5 gran: 16384 size: 8589934592 rang: 16 order: false
+Read count: 524288 Time: 1786962 round: 16
+type: 5 gran: 32768 size: 8589934592 rang: 16 order: false
+Read count: 262144 Time: 1715414 round: 16
+type: 5 gran: 65536 size: 8589934592 rang: 16 order: false
+Read count: 131072 Time: 715366 round: 16
+type: 5 gran: 8192 size: 8589934592 rang: 32 order: false
+Read count: 1048576 Time: 4265484 round: 32
+type: 5 gran: 16384 size: 8589934592 rang: 32 order: false
+Read count: 524288 Time: 3375998 round: 32
+type: 5 gran: 32768 size: 8589934592 rang: 32 order: false
+Read count: 262144 Time: 1220772 round: 32
+type: 5 gran: 65536 size: 8589934592 rang: 32 order: false
+Read count: 131072 Time: 1405799 round: 32
+type: 5 gran: 8192 size: 8589934592 rang: 64 order: false
+Read count: 1048576 Time: 6811443 round: 64
+type: 5 gran: 16384 size: 8589934592 rang: 64 order: false
+Read count: 524288 Time: 2721778 round: 64
+type: 5 gran: 32768 size: 8589934592 rang: 64 order: false
+Read count: 262144 Time: 2073920 round: 64
+type: 5 gran: 65536 size: 8589934592 rang: 64 order: false
+Read count: 131072 Time: 978427 round: 64
